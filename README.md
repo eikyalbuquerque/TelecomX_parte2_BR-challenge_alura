@@ -48,8 +48,8 @@ Comparamos as métricas de desempenho dos modelos (Acurácia, Precisão, Recall,
 
 Analisamos as matrizes de confusão para entender o desempenho de cada modelo na classificação correta dos clientes.
 
-![Matriz de Confusão - Regressão Logística](imagens/matriz_confusao_Regressão Logística.png)
-![Matriz de Confusão - Random Forest](imagens/matriz_confusao_Random Forest.png)
+![Matriz de Confusão - Regressão Logística](imagens/matriz_confusao_RegressaoLogistica.png)
+![Matriz de Confusão - Random Forest](imagens/matriz_confusao_RandomForest.png)
 
 ### Curvas ROC
 
@@ -61,7 +61,7 @@ Comparamos as curvas ROC para avaliar a capacidade dos modelos de distinguir ent
 
 Analisamos a importância de cada variável na previsão da evasão utilizando o modelo Random Forest.
 
-![Importância das Features - Random Forest](imagens/feature_importances_Random Forest.png)
+![Importância das Features - Random Forest](imagens/feature_importances_RandomForest.png)
 
 ## 🔑 Principais Fatores de Evasão
 
