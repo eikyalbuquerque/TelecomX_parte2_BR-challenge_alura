@@ -1,4 +1,4 @@
-# 📊 Análise de Evasão de Clientes na Telecom X
+# 📊 Análise de Evasão de Clientes na Telecom X - Parte 2 
 
 Este projeto visa analisar os fatores que influenciam a evasão de clientes (Churn) em uma empresa de telecomunicações e desenvolver modelos de Machine Learning para prever essa evasão. Com base nessa análise, propomos estratégias de retenção para minimizar a perda de clientes.
 
