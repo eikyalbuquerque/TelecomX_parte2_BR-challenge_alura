@@ -14,26 +14,25 @@ Realizamos uma análise exploratória dos dados para entender a distribuição d
 
 Observamos a distribuição das variáveis numéricas através de histogramas.
 
-![Distribuição das Variáveis Numéricas](distribuicao_variaveis.png)
+![Distribuição das Variáveis Numéricas](imagens/distribuicao_variaveis.png)
 
 ### Matriz de Correlação
 
 Analisamos a correlação entre as variáveis para identificar relacionamentos importantes.
 
-![Matriz de Correlação](matriz_correlacao.png)
+![Matriz de Correlação](imagens/matriz_correlacao.png)
 
 ### Boxplots das Variáveis Numéricas
 
 Visualizamos a distribuição e a presença de outliers nas variáveis numéricas.
 
-![Boxplots das Variáveis Numéricas](boxplots.png)
+![Boxplots das Variáveis Numéricas](imagens/boxplots.png)
 
 ### Distribuição das Variáveis Categóricas
 
 Analisamos a distribuição de cada variável categórica.
 
-![Distribuição de Variáveis Categóricas](distribuicao_variavel_categorica.png)
-*(Nota: Substitua "distribuicao_variavel_categorica.png" pelo nome de arquivo das imagens geradas para cada variável categórica, como `distribuicao_customer_gender.png`, etc.)*
+![Distribuição de Variáveis Categóricas](imagens/distribuicao_customer_gender.png)
 
 ## 🧠 Treinamento e Avaliação de Modelos
 
@@ -43,26 +42,26 @@ Treinamos e avaliamos dois modelos de Machine Learning para prever a evasão: Re
 
 Comparamos as métricas de desempenho dos modelos (Acurácia, Precisão, Recall, F1-Score e AUC-ROC).
 
-![Comparação de Métricas](avaliacao_metricas_modelos.png)
+![Comparação de Métricas](imagens/avaliacao_metricas_modelos.png)
 
 ### Matrizes de Confusão
 
 Analisamos as matrizes de confusão para entender o desempenho de cada modelo na classificação correta dos clientes.
 
-![Matriz de Confusão - Regressão Logística](matriz_confusao_Regressão Logística.png)
-![Matriz de Confusão - Random Forest](matriz_confusao_Random Forest.png)
+![Matriz de Confusão - Regressão Logística](imagens/matriz_confusao_Regressão Logística.png)
+![Matriz de Confusão - Random Forest](imagens/matriz_confusao_Random Forest.png)
 
 ### Curvas ROC
 
 Comparamos as curvas ROC para avaliar a capacidade dos modelos de distinguir entre as classes.
 
-![Curvas ROC](curvas_ROC.png)
+![Curvas ROC](imagens/curvas_ROC.png)
 
 ### Importância das Features (Random Forest)
 
 Analisamos a importância de cada variável na previsão da evasão utilizando o modelo Random Forest.
 
-![Importância das Features - Random Forest](feature_importances_Random Forest.png)
+![Importância das Features - Random Forest](imagens/feature_importances_Random Forest.png)
 
 ## 🔑 Principais Fatores de Evasão
 
